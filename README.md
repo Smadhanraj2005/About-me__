@@ -44,14 +44,6 @@ Admin Monitoring Dashboard
 Secure form handling & role-based access
 🔗 Repo: [Add your repo link]
 
-☁️ Torrent to Google Drive System
-Python • Google Colab
-
-Downloads torrent files directly to Google Drive
-Handles large files efficiently
-Uses automation pipelines for cloud execution
-🔗 Repo: [Add your repo link]
-
 📈 GitHub Stats
 GitHub Stats
 
@@ -67,6 +59,6 @@ Top Languages
 🧪 Building mini-projects
 🧠 Revisiting fundamentals
 🤝 Connect With Me
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-📧 Email: yourmail@example.com
+💼 LinkedIn: https://www.linkedin.com/in/madhanraj-s-40523b328/
+📧 Email: madhanraj2005s@gmail.com.com
 “Code is not just written to work — it’s written to scale.”
